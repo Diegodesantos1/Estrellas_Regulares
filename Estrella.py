@@ -1,6 +1,9 @@
 import turtle
 print("¿Cuántas puntas tiene tu estrella?")
 puntas=int(input())
+
+angulo= 360//puntas
+print(angulo)
 estrella=turtle.Turtle()
 pantalla=turtle.Screen()
 pantalla.bgcolor("White")
