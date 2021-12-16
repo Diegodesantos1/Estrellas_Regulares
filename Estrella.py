@@ -5,6 +5,7 @@ angulo= (puntas - 2) * 180 / puntas #Fórmula del ángulo interno de un polígon
 angulo_positivo = (1 - 4/puntas) * 180 #Fórmula del ángulo interno positivo de un polígono
 estrella=turtle.Turtle()
 pantalla=turtle.Screen()
+turtle.hideturtle() #No se muestra el puntero
 turtle.pencolor("White")
 turtle.pensize(3) # Pongo el tamaño un poco más grueso
 pantalla.bgcolor("Black")
