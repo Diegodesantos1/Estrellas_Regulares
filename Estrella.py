@@ -2,6 +2,10 @@ import turtle
 def dibujar_estrella():
     print("¿Cuántas puntas tiene tu estrella?")
     puntas=int(input())
+    while puntas <= 4:
+        print("Número no válido, seleccione otro")
+        print("¿Cuántas puntas tiene tu estrella?")
+        puntas=int(input())
     angulo= (puntas - 2) * 180 / puntas #Fórmula del ángulo interno de un polígono
     angulo_positivo = (1 - 4/puntas) * 180 #Fórmula del ángulo interno positivo de un polígono
     estrella=turtle.Turtle()
@@ -17,4 +21,5 @@ def dibujar_estrella():
         turtle.forward(20)
         turtle.left(180 - angulo)
     turtle.done()
+    print("Se ha abierto en otra pestaña la estrella que querías")
 dibujar_estrella()
