@@ -20,6 +20,6 @@ def dibujar_estrella():
         turtle.right(180 - angulo_positivo)
         turtle.forward(20)
         turtle.left(180 - angulo)
-    turtle.done()
     print("Se ha abierto en otra pestaña la estrella que querías")
+    turtle.done()
 dibujar_estrella()
