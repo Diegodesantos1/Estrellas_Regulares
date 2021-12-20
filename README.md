@@ -16,9 +16,9 @@
 
 <h1 align="center">2.Diagrama de flujo</h1>
 
-<center><img src="" alt="Flowchart"></center>
+<center><img src="https://github.com/Diegodesantos1/Estrellas_Regulares/blob/main/Estrellas_Flowchart.png" alt="Flowchart"></center>
 
-*Para verlo más claro pincha [aquí]()*
+*Para verlo más claro pincha [aquí](https://github.com/Diegodesantos1/Estrellas_Regulares/blob/main/Estrellas_Flowchart.png)*
 
 ***
 <h1 align="center">3.Código</h1>
