@@ -1,4 +1,27 @@
-# Estrellas_Regulares
+## Estrellas_Regulares
+
+***
+1. [Introducción](#Introducción)
+2. [Flowchart](#Flowchart)
+3. [Código](#Código)
+
+***
+
+
+<h1 align="center">1.Introducción</h1>
+
+<B>Este es el link del [Repositorio](https://github.com/Diegodesantos1/Estrellas_Regulares)</B>
+
+*He creado un programa en cual es capaz de dibujar una estrella usando el módulo turtle, en función del número de puntas que quieras*
+
+<h1 align="center">2.Diagrama de flujo</h1>
+
+<center><img src="" alt="Flowchart"></center>
+
+*Para verlo más claro pincha [aquí]()*
+
+***
+<h1 align="center">3.Código</h1>
 
 ```python
 import turtle
