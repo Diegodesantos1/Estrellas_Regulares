@@ -14,6 +14,8 @@
 
 *He creado un programa en cual es capaz de dibujar una estrella usando el módulo turtle, en función del número de puntas que quieras*
 
+***
+
 <h1 align="center">2.Diagrama de flujo</h1>
 
 <center><img src="https://github.com/Diegodesantos1/Estrellas_Regulares/blob/main/Estrellas_Flowchart.png" alt="Flowchart"></center>
@@ -22,6 +24,8 @@
 
 ***
 <h1 align="center">3.Código</h1>
+
+**El código empleado para resolver el ejercicio es:**
 
 ```python
 import turtle
